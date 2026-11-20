@@ -1,6 +1,6 @@
 # Controle de Impressora Elgin i9
 
-Este projeto foi desenvolvido na disciplina de Programação em C, com o objetivo de criar um sistema para controlar uma impressora térmica Elgin i9.
+Este projeto foi desenvolvido na disciplina de Construção de Algoritmos e Programação, com o objetivo de criar um sistema para controlar uma impressora térmica Elgin i9.
 
 O programa foi desenvolvido em Linguagem C e possui 11 funcionalidades, como configurar a conexão, imprimir textos, QR Codes, códigos de barras, arquivos XML, abrir gaveta e emitir sinal sonoro. Também conta com um sistema de login com usuário e senha.
 
