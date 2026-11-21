@@ -23,7 +23,8 @@ O sistema possui um menu com as seguintes opções:
 9. Abrir gaveta Elgin
 10. Abrir gaveta
 11. Emitir sinal sonoro
-0. Sair do programa
+    
+**0 - Sair do programa**
 
 ## Como executar
 
