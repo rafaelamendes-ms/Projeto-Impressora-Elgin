@@ -49,5 +49,5 @@ O sistema permite até três tentativas de login. Após o acesso, o usuário pod
 - Rafaela Soares
 - Júlia Dantas
 - Rebecca Anjos
-- Gabrielle Costa
+- Gabrielle Costa dos Santos
 
