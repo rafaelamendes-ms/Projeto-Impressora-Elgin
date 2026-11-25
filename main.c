@@ -3,6 +3,7 @@
 #include <string.h>
 #include <windows.h>
 
+
 /*
  * Controle da impressora Elgin (i8 / i9) em C, usando a DLL E1_Impressora01.dll.
  *
